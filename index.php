@@ -1,7 +1,7 @@
 <?php
     echo "<h2> sweetproject2 </h2>";
     echo "<p> sweetproject2 is a revolutionary experience made by up and coming programmer Justin Dichter.  This code cannot be copied, reproduced, or manipulated in any way.  If you wish to admire the exquisite design of the website or the beautifully penned code, you may do so, but proceed with caution, as the little sweetproject code elves will be on the lookout for suspicious behavior. </p>";
-    echo "<img src=fathertimecat.jpg/>";
+    echo "<img src=../fathertimecat.jpg/>";
     echo "<ol> The Top 5 Gatorade flavors
         <li>Glacier Freeze</li>
         <li>Cool Blue</li>
