@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sweetproject2
 ### Author
 This project was created by Justin Dichter.  I occassionally do my work in Mr. Torres' classroom, the elusive Room 09.  I also sometimes do my work in my very own dorm room, the magnificant Room 204 in Atkins.  However, if I am really feeling daring, I will do my work in the Library, although that may be too much of a walk.  Nevertheless, the entirety of this project was done on my wonderful Lenovo Laptop that has never crashed and is completely virus-free.
