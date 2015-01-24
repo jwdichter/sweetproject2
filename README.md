@@ -13,4 +13,4 @@ I'd like to show my gratitude to a variety of people and things for aiding me in
 + 1/22/2015 - Edited README.md file
 + 1/23/2015 - Created and edited index.php file
 + 1/23/2015 - Deployed 'sweetproject2'
->>>>>>> origin/master
+
