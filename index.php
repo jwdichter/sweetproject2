@@ -1,47 +1,46 @@
 <?php
-    <h2> "sweetproject2" <h2>;
-    <p> "sweetproject2 is a revolutionary experience made by up and coming programmer Justin Dichter.  This code cannot be copied, reproduced, or manipulated in any way.  If you wish to admire the exquisite design of the website or the beautifully penned code, you may do so, but proceed with caution, as the little sweetproject code elves will be watching." <p>;
-    <img src="fathertimecat.jpg"/>
-    <ol> "The Top 5 Gatorade flavors"
-        <li> "Glacier Freeze" </li>
-        <li> "Cool Blue" </li>
-        <li> "Lemon-Lime" </li>
-        <li> "Fruit Punch" </li>
-        <li> "Orange" </li>
-    </ol>
-    <table>
+    echo "<h2> sweetproject2 </h2>";
+    echo "<p> sweetproject2 is a revolutionary experience made by up and coming programmer Justin Dichter.  This code cannot be copied, reproduced, or manipulated in any way.  If you wish to admire the exquisite design of the website or the beautifully penned code, you may do so, but proceed with caution, as the little sweetproject code elves will be watching. </p>";
+    echo "<img src=fathertimecat.jpg/>";
+    echo "<ol> The Top 5 Gatorade flavors
+        <li>Glacier Freeze</li>
+        <li>Cool Blue</li>
+        <li>Lemon-Lime</li>
+        <li>Fruit Punch</li>
+        <li>Orange</li>
+    </ol>";
+    echo "<table>
         <tr>
-          <th>"Month"</th>
-          <th>"Savings"</th>
+          <th>Month</th>
+          <th>Savings</th>
         </tr>
         <tr>
-            <td>"January"</td>
-            <td>"$100"</td>
+            <td>January</td>
+            <td>$100</td>
         </tr>
         <tr>
-          <td>"February"</td>
-          <td>"$80"</td>
+          <td>February</td>
+          <td>$80</td>
         </tr>
         <tr>
-          <td>"March"</td>
-          <td>"$150"</td>
+          <td>March</td>
+          <td>$150</td>
         </tr>        
         <tr>
-          <td>"April"</td>
-          <td>"$80"</td>
+          <td>April</td>
+          <td>$80</td>
         </tr>        
         <tr>
-          <td>"May"</td>
-          <td>"$200"</td>
+          <td>May</td>
+          <td>$200</td>
         </tr>        
         <tr>
-          <td>"June"</td>
-          <td>"$175"</td>
+          <td>June</td>
+          <td>$175</td>
         </tr>        
         <tr>
-          <td>"July"</td>
-          <td>"$50"</td>
+          <td>July</td>
+          <td>$50</td>
         </tr>        
-    </table>
-    <a href = "https://www.google.com/"> Google! </a>
-?>
+    </table>";
+    echo "<a href = https://www.google.com/>Google!<a/>";
